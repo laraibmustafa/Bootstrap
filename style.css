@@ -1,0 +1,43 @@
+.footer{
+    width: 100%;
+    background-color: #353b45;
+    height: 50%;
+}
+
+.container{
+    margin-top: 30px;
+    background-color: #353b45; 
+    color: white;
+    width: 100%;
+    height: 60vh;
+}
+.row{
+    width:100%;
+}
+.col{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.bootstrap{
+    line-height: 23px;
+}
+.col h4{
+    margin-left: 110px;
+    color: white;
+}
+.list{
+    list-style-type: none;
+}
+.col .list a{
+   color: white;
+   text-decoration: none;
+   list-style-type: none;
+   line-height: 33px;
+   margin-left: 80px;
+}
+
+.list a:hover{
+    color: #61afef ;
+    cursor: pointer;
+    text-decoration: underline;
+}
